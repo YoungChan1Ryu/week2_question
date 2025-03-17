@@ -59,3 +59,4 @@ class TestPriorityQueue:
     assert pq.pop() == "Task 3"
     assert pq.pop() == "Task 1"
     assert pq.pop() is None
+    
